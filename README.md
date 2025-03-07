@@ -27,10 +27,5 @@ Lorsque le système d'enchères est lancé, l'utilisateur a la possibilité de s
 
 ## Connection à la base
 
-```shell
-sqlplus leducb@oracle1
-leducb
-```
+la connection ne peut se faire seulement sur les serveurs de l'école.
 
-# Contributeurs
-DA CRUZ Edouard, BOUTAINE Raphaël, GUILLIN Loïs, DUPIAT Mathéo, LE DUC Baptiste, BELMADANI Nahel
